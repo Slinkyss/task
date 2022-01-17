@@ -1,3 +1,7 @@
 created a b text file in B
+<<<<<<< HEAD
 Edited file in D
 
+=======
+Did some changes in b textfile
+>>>>>>> B
