@@ -1,2 +1,7 @@
 made a text file in C 
+<<<<<<< HEAD
 Edited file in D 
+=======
+DID some changes
+
+>>>>>>> C
