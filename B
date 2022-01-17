@@ -1,1 +1,2 @@
 created a b text file in B
+Did some changes in b textfile
